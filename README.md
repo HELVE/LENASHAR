@@ -2,6 +2,8 @@
 
 <a name="intro"></a>
 # LEN'A SHAR - MYTHOLOGY
+World of Len'a Shar is a concept of an usual place. It comes along with whole mythology and lore. Flying islands.
+
 Len'a Shar - Violet of the sky
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
