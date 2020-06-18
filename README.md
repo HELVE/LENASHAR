@@ -5,6 +5,11 @@
 World of Len'a Shar is a concept of an usual place. It comes along with whole mythology and lore. Flying islands.
 
 Len'a Shar - Violet of the sky
+Len'a Shar - Alive
+Len'a Shar - Children of Stars
+Len'a Shar - Elder Council
+Len'a Shar - Eye of Aerim
+Len'a Shar - Soul Sold
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
